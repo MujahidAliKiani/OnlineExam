@@ -1,0 +1,29 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io."
+  },
+  "Permission:": "Online Exam System",
+  "Permission:Class": "Class Management",
+  "Permission:Class.Create": "Creating new Class",
+  "Permission:Class.Edit": "Editing the Class",
+  "Permission:Class.Delete": "Deleting the Class",
+  "Permission:Student": "Student Management",
+  "Permission:Student.Create": "Creating new Student",
+  "Permission:Student.Edit": "Editing the Student",
+  "Permission:Student.Delete": "Deleting the Student",
+  "Permission:Test": "Test Management",
+  "Permission:Test.Create": "Creating new Test",
+  "Permission:Test.Edit": "Editing the Test",
+  "Permission:Test.Delete": "Deleting the Test",
+  "Permission:Test.GetTest": " Get Test",
+  "Permission:Test.ViewQuestion": "View Test Question",
+  "Permission:Question": "Question Management",
+  "Permission:Question.Create": "Creating new Question",
+  "Permission:Question.Edit": "Editing the Question",
+  "Permission:Question.Delete": "Deleting the Question"
+
+
+}
